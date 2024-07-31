@@ -1,1 +1,1 @@
-<video src="https://cdn.discordapp.com/attachments/949691484200898631/1268285438901223435/ytmp3-convert.com_720p-potnye-iaitsa.mp4?ex=66abde5c&is=66aa8cdc&hm=55359c94810537b7e87232ad13ad989233cbf5ecfeef056c8251f58117526ae6&" controls autoplay>
+<video src="https://qu.ax/UGcc.mp4" controls autoplay>
